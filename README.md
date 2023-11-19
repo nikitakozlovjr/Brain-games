@@ -47,4 +47,20 @@ ___
 
 **brain-even**
 
-![](https://asciinema.org/a/MU1lJ6myAvk5r4R9WcKBKiVBH)
+[![asciicast](https://asciinema.org/a/MU1lJ6myAvk5r4R9WcKBKiVBH.svg)](https://asciinema.org/a/MU1lJ6myAvk5r4R9WcKBKiVBH)
+
+**brain-calc**
+
+[![asciicast](https://asciinema.org/a/wQOjEziGXg5izup39BpA1iUs1.svg)](https://asciinema.org/a/wQOjEziGXg5izup39BpA1iUs1)
+
+**brain-gcd**
+
+[![asciicast](https://asciinema.org/a/loV2CAz3Hq2w82VYachYVRaGA.svg)](https://asciinema.org/a/loV2CAz3Hq2w82VYachYVRaGA)
+
+**brain-progression**
+
+[![asciicast](https://asciinema.org/a/TBMvg7vQfpPy9uZBq8FNHkpyi.svg)](https://asciinema.org/a/TBMvg7vQfpPy9uZBq8FNHkpyi)
+
+**brain-prime**
+
+[![asciicast](https://asciinema.org/a/RbY5iFT5e2TIqMBaQFqCgBm5i.svg)](https://asciinema.org/a/RbY5iFT5e2TIqMBaQFqCgBm5i)
