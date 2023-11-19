@@ -17,7 +17,7 @@ const primeLogic = (num) => {
 };
 
 const rulQuestAndAns = () => {
-  const question = genRandNum(1, 30);
+  const question = getRandomNum(1, 30);
   const answer = primeLogic(question) ? 'yes' : 'no';
   return [question, answer];
 };
