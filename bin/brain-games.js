@@ -1,3 +1,5 @@
 #!/usr/bin/env node
 
-console.log('Welcome to the Brain Games!');
+import getHi from '../src/cli.js';
+
+getHi(); // приветствие игрока
