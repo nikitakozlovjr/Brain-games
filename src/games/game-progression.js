@@ -16,9 +16,9 @@ const progressLogic = (progressBegin, progressLength, stepProgress) => {
 };
 
 const rulQuestAndAns = () => {
-  const progressBegin = genRandNum(1, 50);
-  const progressLength = genRandNum(5, 10);
-  const passNum = genRandNum(1, 10);
+  const progressBegin = getRandomNum(1, 50);
+  const progressLength = getRandomNum(5, 10);
+  const passNum = getRandomNum(1, 10);
   const [question, currAnswer] = progressLogic(progressBegin, progressLength, passNum);
   const answer = String(currAnswer);
   return [question, answer];
